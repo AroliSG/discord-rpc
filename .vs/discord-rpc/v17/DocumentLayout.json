@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aroly\\source\\repos\\discord-rpc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02E5E390-EBCB-4DCB-BB0A-EAE972FB2C5E}|discord-rpc\\discord-rpc.vcxproj|C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord-rpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E5E390-EBCB-4DCB-BB0A-EAE972FB2C5E}|discord-rpc\\discord-rpc.vcxproj|solutionrelative:discord-rpc\\discord-rpc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E5E390-EBCB-4DCB-BB0A-EAE972FB2C5E}|discord-rpc\\discord-rpc.vcxproj|C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord_rpc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02E5E390-EBCB-4DCB-BB0A-EAE972FB2C5E}|discord-rpc\\discord-rpc.vcxproj|solutionrelative:discord-rpc\\discord_rpc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "discord_rpc.h",
+              "DocumentMoniker": "C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord_rpc.h",
+              "RelativeDocumentMoniker": "discord-rpc\\discord_rpc.h",
+              "ToolTip": "C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord_rpc.h",
+              "RelativeToolTip": "discord-rpc\\discord_rpc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T16:52:27.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "discord-rpc.cpp",
+              "DocumentMoniker": "C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord-rpc.cpp",
+              "RelativeDocumentMoniker": "discord-rpc\\discord-rpc.cpp",
+              "ToolTip": "C:\\Users\\aroly\\source\\repos\\discord-rpc\\discord-rpc\\discord-rpc.cpp",
+              "RelativeToolTip": "discord-rpc\\discord-rpc.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T16:33:36.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
